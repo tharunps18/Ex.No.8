@@ -159,6 +159,25 @@ Record the differences and similarities, and refine prompts accordingly if resul
 
 ---
 
+## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
+Original Image
+![Simple_Mountains_Outline_Illustration_high_resolution_preview_1592216](https://github.com/user-attachments/assets/3ac81969-4b62-455e-b5e8-f3cf6a2cf252)
+
+Examine the Given Image: Study the image to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
+
+prompt 1: A serene landscape with mountains and a river.
+![801aa7ba-7625-4c08-a4a1-c89c6faff6bb](https://github.com/user-attachments/assets/f5280bbc-7dcb-4226-9242-895791fa7545)
+
+prompt 2: A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, and a few trees along the shore.
+![3b00ec8e-4c58-4ca7-acee-df814b81da1e](https://github.com/user-attachments/assets/2915f58a-dc53-4072-9914-6c3e2e67719c)
+
+prompt 3: A serene landscape in the style of a watercolor painting with soft, blended colors.
+![403077c4-4647-473b-8994-799d205f697d](https://github.com/user-attachments/assets/0991cbbd-84fc-406a-bc00-f35c84ca8ad8)
+
+prompt 4: A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, a few trees along the shore, and soft, pastel tones in the clouds.
+![67132323-7bed-41d2-aae0-d94d890be99d](https://github.com/user-attachments/assets/a27ec513-3659-4eef-b146-49a9bcfcc187)
+
 ### Observations
 
 | **Criteria** | **Original Image**            | **Generated Image**                 | **Comparison**                     |
@@ -266,3 +285,4 @@ It bridges human observation and machine generation,
 enabling efficient reproduction and enhancement of real-world imagery.
 """
 # -------------------------------------------------------------
+
